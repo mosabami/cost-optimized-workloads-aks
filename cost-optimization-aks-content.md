@@ -1,5 +1,4 @@
 In this document, we'll discuss features and options, and the best practices for running and managing Kubernetes workloads on AKS in a cost optimized way to take advantage of the scalability provided by Azure. 
-In this reference architecture, we'll build a baseline infrastructure that deploys an Azure Kubernetes Service (AKS) cluster. This article includes recommendations for networking, security, identity, management, and monitoring of the cluster based on an organization's business requirements.
 
 > [!NOTE]
 > This document assumes you are familiar with Kubernetes, Azure, AKS and autoscaling. If you need a refresher, see the [**Related articles**](#related-articles) section for resources.
